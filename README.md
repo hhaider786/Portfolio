@@ -58,6 +58,7 @@ I hold a student visa with work rights (48 hrs/fortnight) and will transition to
 
 | Project | Description | Tech | Repo |
 |---|---|---|---|
+| **Global Education Analytics** | Two-phase World Bank data analysis. Phase 1: LinearRegression forecasts 2025 indicators for 60+ countries with KNN imputation. Phase 2: Decision Tree / Random Forest / Logistic Regression classify country performance tiers. | Python · pandas · scikit-learn · Matplotlib | [big-data-education-analytics](https://github.com/hhaider786/big-data-education-analytics) |
 | **Earthquake Spatial Analysis** | ESDA of global earthquake epicenter data. Moran's I of 0.89 (depth) and 0.73 (magnitude) confirm strong spatial clustering. LISA maps show clusters align with tectonic fault lines. | Python · PySAL · ESDA · GeoPandas · Folium | [earthquake-spatial-analysis](https://github.com/hhaider786/earthquake-spatial-analysis) |
 
 ---
