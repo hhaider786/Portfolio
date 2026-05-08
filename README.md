@@ -6,6 +6,10 @@ Hobart, TAS | haidermustafa2012@gmail.com | [linkedin.com/in/haider-mustafa-0310
 
 ---
 
+> **A note on this portfolio:** These repositories represent my projects and work across university and professional settings. Some projects have been reduced to what I can share publicly — due to NDAs, government security classifications, or commercial confidentiality. Where full code cannot be shared, each repo contains a detailed architecture document covering the system design, technical decisions, and outcomes, so readers can still evaluate the depth and quality of work involved.
+
+---
+
 ## About
 
 I'm a software developer completing a Master of Information Technology at the University of Tasmania (graduating July 2026), specialising in Artificial Intelligence and Cybersecurity. My background spans full-stack web development, geospatial platforms, RAG/LLM systems, and secure code practices — applied across government, enterprise, and academic projects.
