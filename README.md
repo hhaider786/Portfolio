@@ -100,4 +100,3 @@ Information Technology University, Lahore, Pakistan
 **Software Engineer (Associate)** — Codegic, Lahore | Sep–Nov 2023
 - Built geospatial dashboards in Java Spring Boot; designed Figma prototypes for enterprise clients; collaborated in Agile sprints
 
-**Night Fill Team Member** — Woolworths, Sorell TAS | Sep 2024–Present
