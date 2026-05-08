@@ -61,6 +61,14 @@ I hold a student visa with work rights (48 hrs/fortnight) and will transition to
 
 ---
 
+### Algorithms & Data Structures
+
+| Project | Description | Tech | Repo |
+|---|---|---|---|
+| **CS Algorithms** | Clean implementations of classical algorithms and data structures from coursework at ITU Lahore. Covers recursion, counting sort, heaps/HeapSort (two buildHeap methods compared), priority queue, BSTree, and Minimax Tic-Tac-Toe. | C++ · Python | [cs-algorithms](https://github.com/hhaider786/cs-algorithms) |
+
+---
+
 ## Education
 
 **Master of Information Technology and Systems** *(Expected Jul 2026)*
