@@ -12,9 +12,17 @@ Hobart, TAS | haidermustafa2012@gmail.com | [linkedin.com/in/haider-mustafa-0310
 
 ## About
 
-I'm a software developer completing a Master of Information Technology at the University of Tasmania (graduating July 2026), specialising in Artificial Intelligence and Cybersecurity. My background spans full-stack web development, geospatial platforms, RAG/LLM systems, and secure code practices — applied across government, enterprise, and academic projects.
+I'm a software developer completing a **Master of Information Technology** at the University of Tasmania (graduating July 2026), specialising in **Artificial Intelligence** and **Cybersecurity**. I hold a Bachelor of Science in Computer Science from Information Technology University (ITU), Lahore.
 
-I hold a student visa with work rights (48 hrs/fortnight) and will transition to a Subclass 485 post-study work visa in mid-2026, giving full unrestricted work rights for 3–4 years.
+My work spans full-stack web development, geospatial platforms, AI/NLP systems, PKI and identity infrastructure, and secure code practices — applied across government, enterprise, and academic settings:
+
+- **Government:** Built the DSS platform, a production three-tier reporting system commissioned by the **Tasmanian Department of Premier and Cabinet (DPAC)**, serving 100+ government staff across agencies. The system uses Azure Entra ID authentication, dynamic schema design, CI/CD via GitHub Actions and Docker, and meets Australian Government security and audit compliance requirements.
+- **National-level deployment:** Co-led the ATLAS geospatial platform as team lead at ITU Lahore — a custom WFS-T geospatial data service accepted by the **Punjab Information Technology Board (PITB)** for national deployment in Pakistan.
+- **Enterprise PKI:** At Codegic, contributed to the Khatim PKI platform — a custom Certificate Authority and Registration Authority for corporate PDF signing and document integrity, built in Java Spring Boot and Hibernate.
+- **AI/NLP:** Built RAG systems with ChromaDB and Gemini function calling, and trained multi-classifier speech emotion recognition pipelines achieving 92.73% accuracy on the RAVDESS dataset.
+- **Data science:** Analysed World Bank education data across 60+ countries and performed exploratory spatial data analysis (ESDA) of global earthquake patterns, including Moran's I clustering confirmation.
+
+I hold a student visa with work rights (48 hrs/fortnight) and will transition to a **Subclass 485 post-study work visa** in mid-2026, giving full unrestricted work rights for 3–4 years.
 
 ---
 
@@ -99,5 +107,11 @@ Information Technology University, Lahore, Pakistan
 ## Professional Experience
 
 **Software Engineer (Associate)** — Codegic, Lahore | Sep–Nov 2023
-- Built geospatial dashboards in Java Spring Boot; designed Figma prototypes for enterprise clients; collaborated in Agile sprints
+
+Contributed to **Khatim**, Codegic's enterprise Public Key Infrastructure (PKI) platform for corporate-level digital document signing.
+
+- Developed backend services for a custom **Certificate Authority (CA)** and **Registration Authority (RA)** using **Java Spring Boot**, **Hibernate ORM**, and **Apache Tomcat**
+- The CA issued X.509 digital certificates bound to corporate identities; the RA validated and authorised certificate requests before issuance — separating trust management from certificate issuance for security compliance
+- Integrated PKI workflows into a **PDF digital signing pipeline**, enabling organisations to cryptographically sign documents and verify their integrity and authenticity over time
+- Worked within an Agile team using Jira for sprint planning and task tracking
 
