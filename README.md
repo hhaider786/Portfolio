@@ -50,6 +50,15 @@ I hold a student visa with work rights (48 hrs/fortnight) and will transition to
 | Project | Description | Tech | Repo |
 |---|---|---|---|
 | **WWII Q&A RAG System** | Question-answering system with 4-mode query router (RAG, Gemini, Tools, hybrid). ChromaDB vector store, SentenceTransformer embeddings, Gemini API function calling. | Python · Gemini API · ChromaDB · SentenceTransformers · Gradio | [gemini-rag-qa](https://github.com/hhaider786/gemini-rag-qa) |
+| **Speech Emotion Recognition** | Multi-classifier ML pipeline for emotion detection from raw audio. MFCC + spectral feature extraction via Librosa. MLP achieved 92.73% accuracy; KNN 90.67% with best efficiency. Compared 6 classifiers via 5-fold CV grid search. | Python · Librosa · scikit-learn · RAVDESS · TESS | [speech-emotion-recognition](https://github.com/hhaider786/speech-emotion-recognition) |
+
+---
+
+### Data Science / Geospatial Analysis
+
+| Project | Description | Tech | Repo |
+|---|---|---|---|
+| **Earthquake Spatial Analysis** | ESDA of global earthquake epicenter data. Moran's I of 0.89 (depth) and 0.73 (magnitude) confirm strong spatial clustering. LISA maps show clusters align with tectonic fault lines. | Python · PySAL · ESDA · GeoPandas · Folium | [earthquake-spatial-analysis](https://github.com/hhaider786/earthquake-spatial-analysis) |
 
 ---
 
